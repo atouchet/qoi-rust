@@ -2,7 +2,7 @@
 name = "libqoi"
 version = "0.1.0"
 edition = "2018"
-license = "MIT/Apache-2.0"
+license = "MIT OR Apache-2.0"
 authors = ["Ivan Smirnov <rust@ivan.smirnov.ie>"]
 description = "Bindings to the original qoi.h (for test purposes only)"
 publish = false
